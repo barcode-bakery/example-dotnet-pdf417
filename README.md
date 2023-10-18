@@ -14,7 +14,7 @@ There are two ways to install our library:
 
 * With the command line, get the file from GitHub, run the following command.
 ```
-PM> dotnet add PROJECT package BarcodeBakery.BarcodePDF417 --version 3.0.1
+PM> dotnet add PROJECT package BarcodeBakery.BarcodePDF417 --version 3.0.2
 ```
 * Or, download the library on our [website][3], and follow our [developer's guide][4].
 
